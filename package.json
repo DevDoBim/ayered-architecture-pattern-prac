@@ -1,0 +1,21 @@
+{
+  "name": "layered-architecture-pattern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettify": "prettier --write *.js **/*.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.2"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.0",
+    "sequelize-cli": "^6.4.1"
+  }
+}
